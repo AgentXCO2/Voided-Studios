@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Voided Studios</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f0f14;
+      color: white;
+    }
+
+    header {
+      padding: 40px;
+      text-align: center;
+      background: #1a1a24;
+    }
+
+    header h1 {
+      font-size: 40px;
+      margin: 0;
+    }
+
+    header p {
+      color: #aaa;
+      margin-top: 10px;
+    }
+
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .card {
+      background: #1a1a24;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #777;
+      background: #1a1a24;
+      margin-top: 40px;
+    }
+
+    a {
+      color: #7aa2ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Voided Studios</h1>
+  <p>Built by AgentXCO2 for creative intelligence and next generation interaction</p>
+</header>
+
+<section>
+
+  <div class="card">
+    <h2>About</h2>
+    <p>Voided Studios is a developer studio creating AI systems, tools, and experimental software projects.</p>
+  </div>
+
+  <div class="card">
+    <h2>Projects</h2>
+    <p>VoidGPT - AI assistant system</p>
+    <p>Void APIs - backend tools and services</p>
+    <p>Void Defender - security system tools</p>
+  </div>
+
+  <div class="card">
+    <h2>Licensing</h2>
+    <p>All Voided Studios projects are licensed under Mozilla Public License Version 2.0 unless stated otherwise.</p>
+    <p>View license details: <a href="https://www.mozilla.org/en-US/MPL/2.0/">MPL 2.0</a></p>
+  </div>
+
+  <div class="card">
+    <h2>Contact</h2>
+    <p>Studio Owner: AgentXCO2</p>
+  </div>
+
+</section>
+
+<footer>
+  © 2026 Voided Studios
+</footer>
+
+</body>
+</html>
